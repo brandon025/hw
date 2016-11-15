@@ -1,0 +1,4 @@
+Assigned to: Brandon Trieu
+Issue: Setup the composer.json part of the assignment.
+
+Status: In Progress

@@ -1,0 +1,4 @@
+Assigned to: Brandon Trieu
+Issue: Work on first part landing page with textareas.
+
+Status: Finished!
